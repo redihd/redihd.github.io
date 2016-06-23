@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>redihd的技术博客</title>
+  <subtitle>iOS学习中</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://redihd.github.io/"/>
+  <updated>2016-06-23T11:00:58.000Z</updated>
+  <id>http://redihd.github.io/</id>
+  
+  <author>
+    <name>redihd</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="http://redihd.github.io/2016/06/23/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://redihd.github.io/2016/06/23/第一篇/</id>
+    <published>2016-06-23T10:58:00.000Z</published>
+    <updated>2016-06-23T11:00:58.000Z</updated>
+    
+    <content type="html">&lt;p&gt;之前一直都比较习惯靠脑袋记，或者偶尔的用印象笔记记录一些小东西。最近因为在学习与编程的过程中发现写写画画，和别人分享讨论问题是一件很开心的事情。&lt;/p&gt;
+&lt;p&gt;所以准备开始写一写自己在工作和学习中遇到的有趣的问题、一些小知识点、还有对iOS学习的点滴。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前一直都比较习惯靠脑袋记，或者偶尔的用印象笔记记录一些小东西。最近因为在学习与编程的过程中发现写写画画，和别人分享讨论问题是一件很开心的事情。&lt;/p&gt;
+&lt;p&gt;所以准备开始写一写自己在工作和学习中遇到的有趣的问题、一些小知识点、还有对iOS学习的点滴。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
